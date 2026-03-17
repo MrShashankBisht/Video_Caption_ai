@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Video Subtitle Editor</title>
+
+<style>
+body {
+  font-family: Arial;
+  margin: 0;
+  background: #f4f6f9;
+}
+
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+/* LEFT PANEL */
+.left {
+  width: 30%;
+  background: #ffffff;
+  padding: 15px;
+  border-right: 1px solid #ddd;
+  display: flex;
+  flex-direction: column;
+}
+
+.transcript {
+  flex: 1;
+  overflow-y: auto;
+}
+
+.segment {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.segment.active {
+  border: 2px solid #007bff;
+  background: #eef5ff;
+}
+
+/* RIGHT PANEL */
+.right {
+  flex: 1;
+  padding: 20px;
+}
+
+/* VIDEO */
+.video-wrapper {
+  position: relative;
+  width: 100%;
+  max-width: 800px;
+}
+
+video {
+  width: 100%;
+  background: black;
+}
+
+/* Subtitle Overlay */
+.subtitle {
+  position: absolute;
+  color: white;
+  font-size: 20px;
+  background: rgba(0,0,0,0.5);
+  padding: 4px 8px;
+  pointer-events: none;
+}
+
+/* CONTROLS */
+.controls {
+  margin-top: 15px;
+}
+
+.timeline {
+  width: 100%;
+}
+
+button {
+  padding: 10px 15px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.topbar {
+  margin-bottom: 10px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+  <!-- LEFT SIDE -->
+  <div class="left">
+    <h3>Transcripts</h3>
+
+    <div class="transcript" id="transcriptList"></div>
+
+    <button onclick="downloadData()">Download Transcribe</button>
+  </div>
+
+  <!-- RIGHT SIDE -->
+  <div class="right">
+
+    <div class="topbar">
+      <input type="file" id="videoUpload" accept="video/*">
+      <button onclick="generateTranscription()">Generate Transcribe</button>
+    </div>
+
+    <div class="video-wrapper" id="videoWrapper">
+      <video id="video" controls></video>
+      <div class="subtitle" id="subtitle"></div>
+    </div>
+
+    <div class="controls">
+      <input type="range" min="0" max="100" value="0" class="timeline" id="timeline">
+    </div>
+
+    <div class="controls">
+      <button onclick="togglePositionMode()">Select Position</button>
+      <button onclick="addSegment()">Add Segment</button>
+    </div>
+
+  </div>
+
+</div>
+
+<script>
+
+let segments = [];
+let activeIndex = null;
+let selectingPosition = false;
+
+const video = document.getElementById("video");
+const subtitle = document.getElementById("subtitle");
+const timeline = document.getElementById("timeline");
+const transcriptList = document.getElementById("transcriptList");
+
+/* 📤 VIDEO UPLOAD */
+document.getElementById("videoUpload").addEventListener("change", (e) => {
+  const file = e.target.files[0];
+  if (!file) return;
+
+  const url = URL.createObjectURL(file);
+  video.src = url;
+
+  video.onloadedmetadata = () => {
+    timeline.value = 0;
+  };
+});
+
+/* 🤖 GENERATE TRANSCRIPTION (Dummy for now) */
+function generateTranscription() {
+  if (!video.duration) {
+    alert("Upload video first!");
+    return;
+  }
+
+  segments = [];
+
+  // Dummy segments (replace with API)
+  for (let i = 0; i < 5; i++) {
+    segments.push({
+      text: "Sample text " + (i + 1),
+      start: i * 3,
+      end: (i + 1) * 3,
+      x: 50,
+      y: 80
+    });
+  }
+
+  renderSegments();
+}
+
+/* ADD SEGMENT */
+function addSegment() {
+  segments.push({
+    text: "Edit text",
+    start: video.currentTime,
+    end: video.currentTime + 3,
+    x: 50,
+    y: 80
+  });
+  renderSegments();
+}
+
+/* RENDER SEGMENTS */
+function renderSegments() {
+  transcriptList.innerHTML = "";
+
+  segments.forEach((seg, index) => {
+    const div = document.createElement("div");
+    div.className = "segment" + (index === activeIndex ? " active" : "");
+
+    div.innerHTML = `
+      <input value="${seg.text}" onchange="updateText(${index}, this.value)" />
+      <br>
+      ${seg.start.toFixed(2)}s → ${seg.end.toFixed(2)}s
+    `;
+
+    div.onclick = () => {
+      activeIndex = index;
+      video.currentTime = seg.start;
+      renderSegments();
+    };
+
+    transcriptList.appendChild(div);
+  });
+}
+
+/* UPDATE TEXT */
+function updateText(index, value) {
+  segments[index].text = value;
+}
+
+/* POSITION MODE */
+function togglePositionMode() {
+  selectingPosition = !selectingPosition;
+  alert(selectingPosition ? "Click on video to set position" : "Position mode OFF");
+}
+
+/* CLICK VIDEO TO SET POSITION */
+document.getElementById("videoWrapper").addEventListener("click", (e) => {
+  if (!selectingPosition || activeIndex === null) return;
+
+  const rect = e.currentTarget.getBoundingClientRect();
+
+  const x = ((e.clientX - rect.left) / rect.width) * 100;
+  const y = ((e.clientY - rect.top) / rect.height) * 100;
+
+  segments[activeIndex].x = x;
+  segments[activeIndex].y = y;
+
+  selectingPosition = false;
+});
+
+/* UPDATE SUBTITLE */
+video.addEventListener("timeupdate", () => {
+  const current = video.currentTime;
+
+  const seg = segments.find(s => current >= s.start && current <= s.end);
+
+  if (seg) {
+    subtitle.style.display = "block";
+    subtitle.innerText = seg.text;
+    subtitle.style.left = seg.x + "%";
+    subtitle.style.top = seg.y + "%";
+  } else {
+    subtitle.style.display = "none";
+  }
+
+  if (video.duration) {
+    timeline.value = (current / video.duration) * 100;
+  }
+});
+
+/* TIMELINE CONTROL */
+timeline.addEventListener("input", () => {
+  if (video.duration) {
+    video.currentTime = (timeline.value / 100) * video.duration;
+  }
+});
+
+/* DOWNLOAD JSON */
+function downloadData() {
+  const blob = new Blob([JSON.stringify(segments, null, 2)], { type: "application/json" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = "transcript.json";
+  a.click();
+}
+
+</script>
+
+</body>
+</html>
