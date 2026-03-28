@@ -1,0 +1,71 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>AI Subtitle Editor</title>
+
+<link rel="stylesheet" href="/static/css/styles.css">
+
+<!-- WaveSurfer -->
+<script src="https://unpkg.com/wavesurfer.js"></script>
+</head>
+
+<body>
+
+<div class="container">
+
+  <!-- LEFT PANEL -->
+  <div class="left">
+    <h3>Segments</h3>
+    <div id="transcriptList"></div>
+  </div>
+
+  <!-- RIGHT PANEL -->
+  <div class="right">
+
+    <!-- Upload -->
+  <div class="topbar">
+    <input type="file" id="videoUpload" accept="video/*">
+    <button id="btnUpload">Upload</button>
+
+    <span id="uploadStatus" style="margin-left:10px; color:green;"></span>
+
+    <br><br>
+
+    <button id="btnTranscribe">Generate Transcribe</button>
+    <button id="btnRender">Render Video</button>
+  </div>
+
+    <!-- Style Controls -->
+    <div class="controls">
+      Font Size: <input type="number" id="fontSize" value="30">
+      Color: <input type="text" id="color" value="white">
+      Stroke: <input type="text" id="stroke" value="black">
+    </div>
+
+    <!-- Video -->
+    <div class="video-wrapper" id="videoWrapper">
+      <video id="video" controls></video>
+      <div id="subtitle" class="subtitle"></div>
+    </div>
+
+    <!-- Waveform -->
+    <div id="waveform"></div>
+
+    <!-- Timeline -->
+    <div id="timeline"></div>
+
+    <button id="btnSelectPosition">Drag Subtitle</button>
+
+  </div>
+
+</div>
+
+<!-- JS (MVC) -->
+<script type="module" src="/static/js/app.js"></script>
+
+
+
+</body>
+</html>

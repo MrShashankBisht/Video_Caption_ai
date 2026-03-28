@@ -18,7 +18,7 @@ def format_time(seconds):
 
 
 
-video_file = "video_2.MP4"
+video_file = "video_5_larg_v3.mp4"
 
 # Load video
 video = VideoFileClip(video_file)
@@ -27,19 +27,19 @@ device = "cuda" if torch.cuda.is_available() else "cpu"
 
 # Load model
 try:
-    model = whisper.load_model("small", device=device)
+    model = whisper.load_model("large-v3", device=device)
 except:
     print("⚠️ Falling back to CPU")
-    model = whisper.load_model("small", device="cpu")
+    model = whisper.load_model("large-v3", device="cpu")
 
 # extract audio with ffmpeg to ensure compatibility
-# subprocess.run([
-#     "ffmpeg",
-#     "-i", video_file,
-#     "-ar", "16000",
-#     "-ac", "1",
-#     "audio.wav"
-# ])
+subprocess.run([
+    "ffmpeg",
+    "-i", video_file,
+    "-ar", "16000",
+    "-ac", "1",
+    "audio.wav"
+])
 
 # Transcribe with word timestamps
 result = model.transcribe("audio.wav", task="translate" , language=None, beam_size=5, best_of=1, fp16=(device == "cuda"), verbose=False, temperature=0, word_timestamps=True)
@@ -53,7 +53,7 @@ FONT_SIZE = 20
 MAIN_COLOR = "white"
 HIGHLIGHT_COLOR = "pink"
 STROKE_COLOR = "yellow"
-POSITION = ("center", "center")
+POSITION = (100, 100)
 
 with open("subtitles.srt", "w", encoding="utf-8") as file:
     counter = 0 #global subtitle counter
@@ -82,14 +82,13 @@ with open("subtitles.srt", "w", encoding="utf-8") as file:
                     font_size=FONT_SIZE,
                     color=MAIN_COLOR,
                     stroke_color=STROKE_COLOR,
-                    stroke_width=4,
+                    stroke_width=1,
                     method="label",
                     margin=(10, 5)
                 )
                 .with_start(start)
                 .with_end(end)
                 .with_position(POSITION)
-            
                 .resized(lambda t: 1 + 0.08 * min(t, 0.2))
             )
 

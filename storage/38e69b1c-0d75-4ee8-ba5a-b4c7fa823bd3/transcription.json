@@ -1,0 +1,1292 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.08,
+    "words": [
+      {
+        "word": " Have",
+        "start": 0.0,
+        "end": 0.32,
+        "probability": 0.9303032755851746,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " you",
+        "start": 0.32,
+        "end": 0.42,
+        "probability": 0.9911076426506042,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " ever",
+        "start": 0.42,
+        "end": 0.6,
+        "probability": 0.9984186887741089,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " wondered",
+        "start": 0.6,
+        "end": 0.88,
+        "probability": 0.9918821454048157,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " what",
+        "start": 0.88,
+        "end": 1.16,
+        "probability": 0.9913821816444397,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " English",
+        "start": 1.16,
+        "end": 1.48,
+        "probability": 0.9623001217842102,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " sounds",
+        "start": 1.48,
+        "end": 1.82,
+        "probability": 0.995302677154541,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " like",
+        "start": 1.82,
+        "end": 2.1,
+        "probability": 0.9975441098213196,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " to",
+        "start": 2.1,
+        "end": 2.28,
+        "probability": 0.9896103143692017,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " people",
+        "start": 2.28,
+        "end": 2.64,
+        "probability": 0.9906638860702515,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " who",
+        "start": 2.64,
+        "end": 3.1,
+        "probability": 0.9761058688163757,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " don't",
+        "start": 3.1,
+        "end": 3.4,
+        "probability": 0.9933695495128632,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " speak",
+        "start": 3.4,
+        "end": 3.66,
+        "probability": 0.9957295060157776,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " English?",
+        "start": 3.66,
+        "end": 4.08,
+        "probability": 0.9820995330810547,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      }
+    ],
+    "x": 180,
+    "y": 320,
+    "position_x": 180,
+    "position_y": 320
+  },
+  {
+    "start": 4.4,
+    "end": 11.34,
+    "words": [
+      {
+        "word": " I",
+        "start": 4.4,
+        "end": 4.56,
+        "probability": 0.9924486875534058,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " found",
+        "start": 4.56,
+        "end": 4.8,
+        "probability": 0.9734520316123962,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " this",
+        "start": 4.8,
+        "end": 5.0,
+        "probability": 0.958914041519165,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " short",
+        "start": 5.0,
+        "end": 5.28,
+        "probability": 0.9991760849952698,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " film",
+        "start": 5.28,
+        "end": 5.6,
+        "probability": 0.9962575435638428,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " in",
+        "start": 5.6,
+        "end": 5.82,
+        "probability": 0.9735051393508911,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " fake",
+        "start": 5.82,
+        "end": 6.0,
+        "probability": 0.772784411907196,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " English",
+        "start": 6.0,
+        "end": 6.34,
+        "probability": 0.980387270450592,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " on",
+        "start": 6.34,
+        "end": 6.52,
+        "probability": 0.9919427633285522,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " YouTube,",
+        "start": 6.52,
+        "end": 6.82,
+        "probability": 0.7856892943382263,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " which",
+        "start": 7.0,
+        "end": 7.2,
+        "probability": 0.9902523756027222,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " now",
+        "start": 7.2,
+        "end": 7.42,
+        "probability": 0.9866235852241516,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " has",
+        "start": 7.42,
+        "end": 7.64,
+        "probability": 0.9981141090393066,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " over",
+        "start": 7.64,
+        "end": 7.9,
+        "probability": 0.9880536198616028,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " 50",
+        "start": 7.9,
+        "end": 8.52,
+        "probability": 0.9436951279640198,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " million",
+        "start": 8.52,
+        "end": 8.98,
+        "probability": 0.9458655118942261,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " views",
+        "start": 8.98,
+        "end": 9.5,
+        "probability": 0.9960678815841675,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " and",
+        "start": 9.5,
+        "end": 9.86,
+        "probability": 0.94875168800354,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " 500",
+        "start": 9.86,
+        "end": 10.3,
+        "probability": 0.981584370136261,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": ",000",
+        "start": 10.3,
+        "end": 10.98,
+        "probability": 0.829838216304779,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " likes.",
+        "start": 10.98,
+        "end": 11.34,
+        "probability": 0.9720751643180847,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      }
+    ],
+    "x": 180,
+    "y": 320,
+    "position_x": 180,
+    "position_y": 320
+  },
+  {
+    "start": 11.64,
+    "end": 19.22,
+    "words": [
+      {
+        "word": " I",
+        "start": 11.64,
+        "end": 11.74,
+        "probability": 0.9946308135986328,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " guess",
+        "start": 11.74,
+        "end": 11.92,
+        "probability": 0.9976903200149536,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " this",
+        "start": 11.92,
+        "end": 12.14,
+        "probability": 0.9773968458175659,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " movie",
+        "start": 12.14,
+        "end": 12.32,
+        "probability": 0.9613698720932007,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " was",
+        "start": 12.32,
+        "end": 12.54,
+        "probability": 0.9989981055259705,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " created",
+        "start": 12.54,
+        "end": 12.78,
+        "probability": 0.9966002106666565,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " to",
+        "start": 12.78,
+        "end": 13.04,
+        "probability": 0.9988804459571838,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " show",
+        "start": 13.04,
+        "end": 13.2,
+        "probability": 0.9972583055496216,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " native",
+        "start": 13.2,
+        "end": 13.6,
+        "probability": 0.9654968976974487,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " English",
+        "start": 13.6,
+        "end": 14.04,
+        "probability": 0.9783967137336731,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " speakers",
+        "start": 14.04,
+        "end": 14.46,
+        "probability": 0.9699687361717224,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " what",
+        "start": 14.46,
+        "end": 14.86,
+        "probability": 0.9790307879447937,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " it's",
+        "start": 14.86,
+        "end": 15.12,
+        "probability": 0.9839812517166138,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " like",
+        "start": 15.12,
+        "end": 15.28,
+        "probability": 0.9989846348762512,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " to",
+        "start": 15.28,
+        "end": 15.52,
+        "probability": 0.9984802603721619,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " hear",
+        "start": 15.52,
+        "end": 15.92,
+        "probability": 0.9727003574371338,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " English",
+        "start": 15.92,
+        "end": 16.46,
+        "probability": 0.9804548621177673,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " as",
+        "start": 16.46,
+        "end": 16.84,
+        "probability": 0.9980608820915222,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " a",
+        "start": 16.84,
+        "end": 16.98,
+        "probability": 0.997941792011261,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " foreigner",
+        "start": 16.98,
+        "end": 17.44,
+        "probability": 0.9936450719833374,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " who",
+        "start": 17.44,
+        "end": 18.02,
+        "probability": 0.9573137164115906,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " doesn't",
+        "start": 18.02,
+        "end": 18.42,
+        "probability": 0.9983562529087067,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " speak",
+        "start": 18.42,
+        "end": 18.68,
+        "probability": 0.9983175992965698,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " the",
+        "start": 18.68,
+        "end": 18.88,
+        "probability": 0.9982996582984924,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " language.",
+        "start": 18.88,
+        "end": 19.22,
+        "probability": 0.9968332648277283,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      }
+    ],
+    "x": 180,
+    "y": 320,
+    "position_x": 180,
+    "position_y": 320
+  },
+  {
+    "start": 19.48,
+    "end": 21.3,
+    "words": [
+      {
+        "word": " And",
+        "start": 19.48,
+        "end": 19.62,
+        "probability": 0.9335945844650269,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " I'm",
+        "start": 19.62,
+        "end": 19.86,
+        "probability": 0.9117213487625122,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " a",
+        "start": 19.86,
+        "end": 19.92,
+        "probability": 0.9509010910987854,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " non",
+        "start": 19.92,
+        "end": 20.1,
+        "probability": 0.9887682795524597,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": "-native",
+        "start": 20.1,
+        "end": 20.4,
+        "probability": 0.9599136114120483,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " speaker,",
+        "start": 20.4,
+        "end": 20.76,
+        "probability": 0.9947460889816284,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " by",
+        "start": 20.88,
+        "end": 20.98,
+        "probability": 0.9837954044342041,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " the",
+        "start": 20.98,
+        "end": 21.12,
+        "probability": 0.9995936751365662,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " way.",
+        "start": 21.12,
+        "end": 21.3,
+        "probability": 0.9994463324546814,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      }
+    ],
+    "x": 180,
+    "y": 320,
+    "position_x": 180,
+    "position_y": 320
+  },
+  {
+    "start": 21.4,
+    "end": 24.1,
+    "words": [
+      {
+        "word": " Okay,",
+        "start": 21.4,
+        "end": 21.6,
+        "probability": 0.7812328338623047,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " let's",
+        "start": 21.78,
+        "end": 22.02,
+        "probability": 0.9936998784542084,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " watch",
+        "start": 22.02,
+        "end": 22.16,
+        "probability": 0.9982925057411194,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " your",
+        "start": 22.16,
+        "end": 22.36,
+        "probability": 0.9641231298446655,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " short",
+        "start": 22.36,
+        "end": 22.6,
+        "probability": 0.9972488284111023,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " clip",
+        "start": 22.6,
+        "end": 22.82,
+        "probability": 0.9947715401649475,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " from",
+        "start": 22.82,
+        "end": 23.04,
+        "probability": 0.9969565868377686,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " the",
+        "start": 23.04,
+        "end": 23.18,
+        "probability": 0.9974373579025269,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " movie",
+        "start": 23.18,
+        "end": 23.44,
+        "probability": 0.9964233040809631,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " together.",
+        "start": 23.44,
+        "end": 24.1,
+        "probability": 0.662925124168396,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      }
+    ],
+    "x": 180,
+    "y": 320,
+    "position_x": 180,
+    "position_y": 320
+  },
+  {
+    "start": 25.06,
+    "end": 26.74,
+    "words": [
+      {
+        "word": " It's",
+        "start": 25.06,
+        "end": 25.54,
+        "probability": 0.5373785383999348,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " already",
+        "start": 25.54,
+        "end": 25.7,
+        "probability": 0.16233760118484497,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " awkward",
+        "start": 25.7,
+        "end": 26.04,
+        "probability": 0.5158722400665283,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " on",
+        "start": 26.04,
+        "end": 26.18,
+        "probability": 0.8248912692070007,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " the",
+        "start": 26.18,
+        "end": 26.24,
+        "probability": 0.9906835556030273,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " watch",
+        "start": 26.24,
+        "end": 26.44,
+        "probability": 0.8142622113227844,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " today.",
+        "start": 26.44,
+        "end": 26.74,
+        "probability": 0.9527406692504883,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      }
+    ],
+    "x": 180,
+    "y": 320,
+    "position_x": 180,
+    "position_y": 320
+  },
+  {
+    "start": 27.06,
+    "end": 27.18,
+    "words": [
+      {
+        "word": " Oh?",
+        "start": 27.06,
+        "end": 27.18,
+        "probability": 0.46518826484680176,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      }
+    ],
+    "x": 180,
+    "y": 320,
+    "position_x": 180,
+    "position_y": 320
+  },
+  {
+    "start": 27.6,
+    "end": 29.7,
+    "words": [
+      {
+        "word": " Yeah,",
+        "start": 27.6,
+        "end": 27.78,
+        "probability": 0.8754093050956726,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " that",
+        "start": 28.5,
+        "end": 28.68,
+        "probability": 0.5224376916885376,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " doles",
+        "start": 28.68,
+        "end": 28.94,
+        "probability": 0.5703376233577728,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " a",
+        "start": 28.94,
+        "end": 29.02,
+        "probability": 0.6912700533866882,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " really",
+        "start": 29.02,
+        "end": 29.12,
+        "probability": 0.32872772216796875,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " wonderful",
+        "start": 29.12,
+        "end": 29.36,
+        "probability": 0.5940030813217163,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " face.",
+        "start": 29.36,
+        "end": 29.7,
+        "probability": 0.8679457306861877,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      }
+    ],
+    "x": 180,
+    "y": 320,
+    "position_x": 180,
+    "position_y": 320
+  },
+  {
+    "start": 30.66,
+    "end": 32.0,
+    "words": [
+      {
+        "word": " Can't",
+        "start": 30.66,
+        "end": 31.14,
+        "probability": 0.7474296391010284,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " breathe",
+        "start": 31.14,
+        "end": 31.24,
+        "probability": 0.9291998147964478,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " that",
+        "start": 31.24,
+        "end": 31.4,
+        "probability": 0.9171718955039978,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " more,",
+        "start": 31.4,
+        "end": 31.54,
+        "probability": 0.6980665326118469,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " Alvin",
+        "start": 31.64,
+        "end": 31.82,
+        "probability": 0.45336222648620605,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " John.",
+        "start": 31.82,
+        "end": 32.0,
+        "probability": 0.7704018354415894,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      }
+    ],
+    "x": 180,
+    "y": 320,
+    "position_x": 180,
+    "position_y": 320
+  },
+  {
+    "start": 32.14,
+    "end": 33.74,
+    "words": [
+      {
+        "word": " I",
+        "start": 32.14,
+        "end": 32.26,
+        "probability": 0.9898143410682678,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " love",
+        "start": 32.26,
+        "end": 32.44,
+        "probability": 0.9651974439620972,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " this",
+        "start": 32.44,
+        "end": 32.64,
+        "probability": 0.9952074885368347,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " comment",
+        "start": 32.64,
+        "end": 32.96,
+        "probability": 0.9980452060699463,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " under",
+        "start": 32.96,
+        "end": 33.26,
+        "probability": 0.9736192226409912,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " the",
+        "start": 33.26,
+        "end": 33.38,
+        "probability": 0.9937794804573059,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " video.",
+        "start": 33.38,
+        "end": 33.74,
+        "probability": 0.9985542893409729,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      }
+    ],
+    "x": 180,
+    "y": 320,
+    "position_x": 180,
+    "position_y": 320
+  },
+  {
+    "start": 33.96,
+    "end": 37.58,
+    "words": [
+      {
+        "word": " Imagine",
+        "start": 33.96,
+        "end": 34.32,
+        "probability": 0.9827144742012024,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " an",
+        "start": 34.32,
+        "end": 34.6,
+        "probability": 0.9917190074920654,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " English",
+        "start": 34.6,
+        "end": 34.9,
+        "probability": 0.9718629717826843,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " teacher",
+        "start": 34.9,
+        "end": 35.18,
+        "probability": 0.9905685782432556,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " putting",
+        "start": 35.18,
+        "end": 35.54,
+        "probability": 0.9876703023910522,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " this",
+        "start": 35.54,
+        "end": 35.84,
+        "probability": 0.9950913190841675,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " as",
+        "start": 35.84,
+        "end": 36.1,
+        "probability": 0.9863213896751404,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " a",
+        "start": 36.1,
+        "end": 36.24,
+        "probability": 0.9891302585601807,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " listening",
+        "start": 36.24,
+        "end": 36.6,
+        "probability": 0.9687801003456116,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " final",
+        "start": 36.6,
+        "end": 37.18,
+        "probability": 0.8705168962478638,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      },
+      {
+        "word": " test.",
+        "start": 37.18,
+        "end": 37.58,
+        "probability": 0.9971502423286438,
+        "x": 180,
+        "y": 320,
+        "position_x": 180,
+        "position_y": 320
+      }
+    ],
+    "x": 180,
+    "y": 320,
+    "position_x": 180,
+    "position_y": 320
+  }
+]

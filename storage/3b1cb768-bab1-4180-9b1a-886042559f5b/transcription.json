@@ -1,0 +1,1047 @@
+{
+  "text": " Have you ever wondered what English sounds like to people who don't speak English? I found this short film in fake English on YouTube, which now has over 50 million views and 500,000 likes. I guess this movie was created to show native English speakers what it's like to hear English as a foreigner who doesn't speak the language. And I'm a non-native speaker, by the way. Okay, let's watch your short clip from the movie together. It's already awkward on the watch today. Oh? Yeah, that doles a really wonderful face. Can't breathe that more, Alvin John. I love this comment under the video. Imagine an English teacher putting this as a listening final test.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.08,
+      "text": " Have you ever wondered what English sounds like to people who don't speak English?",
+      "tokens": [
+        50364,
+        3560,
+        291,
+        1562,
+        17055,
+        437,
+        3669,
+        3263,
+        411,
+        281,
+        561,
+        567,
+        500,
+        380,
+        1710,
+        3669,
+        30,
+        50581
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.18345713392596377,
+      "compression_ratio": 1.638783269961977,
+      "no_speech_prob": 0.02793150581419468,
+      "words": [
+        {
+          "word": " Have",
+          "start": 0.0,
+          "end": 0.32,
+          "probability": 0.9303032755851746
+        },
+        {
+          "word": " you",
+          "start": 0.32,
+          "end": 0.42,
+          "probability": 0.9911076426506042
+        },
+        {
+          "word": " ever",
+          "start": 0.42,
+          "end": 0.6,
+          "probability": 0.9984186887741089
+        },
+        {
+          "word": " wondered",
+          "start": 0.6,
+          "end": 0.88,
+          "probability": 0.9918821454048157
+        },
+        {
+          "word": " what",
+          "start": 0.88,
+          "end": 1.16,
+          "probability": 0.9913821816444397
+        },
+        {
+          "word": " English",
+          "start": 1.16,
+          "end": 1.48,
+          "probability": 0.9623001217842102
+        },
+        {
+          "word": " sounds",
+          "start": 1.48,
+          "end": 1.82,
+          "probability": 0.995302677154541
+        },
+        {
+          "word": " like",
+          "start": 1.82,
+          "end": 2.1,
+          "probability": 0.9975441098213196
+        },
+        {
+          "word": " to",
+          "start": 2.1,
+          "end": 2.28,
+          "probability": 0.9896103143692017
+        },
+        {
+          "word": " people",
+          "start": 2.28,
+          "end": 2.64,
+          "probability": 0.9906638860702515
+        },
+        {
+          "word": " who",
+          "start": 2.64,
+          "end": 3.1,
+          "probability": 0.9761058688163757
+        },
+        {
+          "word": " don't",
+          "start": 3.1,
+          "end": 3.4,
+          "probability": 0.9933695495128632
+        },
+        {
+          "word": " speak",
+          "start": 3.4,
+          "end": 3.66,
+          "probability": 0.9957295060157776
+        },
+        {
+          "word": " English?",
+          "start": 3.66,
+          "end": 4.08,
+          "probability": 0.9820995330810547
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.4,
+      "end": 11.34,
+      "text": " I found this short film in fake English on YouTube, which now has over 50 million views and 500,000 likes.",
+      "tokens": [
+        50581,
+        286,
+        1352,
+        341,
+        2099,
+        2007,
+        294,
+        7592,
+        3669,
+        322,
+        3088,
+        11,
+        597,
+        586,
+        575,
+        670,
+        2625,
+        2459,
+        6809,
+        293,
+        5923,
+        11,
+        1360,
+        5902,
+        13,
+        50942
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.18345713392596377,
+      "compression_ratio": 1.638783269961977,
+      "no_speech_prob": 0.02793150581419468,
+      "words": [
+        {
+          "word": " I",
+          "start": 4.4,
+          "end": 4.56,
+          "probability": 0.9924486875534058
+        },
+        {
+          "word": " found",
+          "start": 4.56,
+          "end": 4.8,
+          "probability": 0.9734520316123962
+        },
+        {
+          "word": " this",
+          "start": 4.8,
+          "end": 5.0,
+          "probability": 0.958914041519165
+        },
+        {
+          "word": " short",
+          "start": 5.0,
+          "end": 5.28,
+          "probability": 0.9991760849952698
+        },
+        {
+          "word": " film",
+          "start": 5.28,
+          "end": 5.6,
+          "probability": 0.9962575435638428
+        },
+        {
+          "word": " in",
+          "start": 5.6,
+          "end": 5.82,
+          "probability": 0.9735051393508911
+        },
+        {
+          "word": " fake",
+          "start": 5.82,
+          "end": 6.0,
+          "probability": 0.772784411907196
+        },
+        {
+          "word": " English",
+          "start": 6.0,
+          "end": 6.34,
+          "probability": 0.980387270450592
+        },
+        {
+          "word": " on",
+          "start": 6.34,
+          "end": 6.52,
+          "probability": 0.9919427633285522
+        },
+        {
+          "word": " YouTube,",
+          "start": 6.52,
+          "end": 6.82,
+          "probability": 0.7856892943382263
+        },
+        {
+          "word": " which",
+          "start": 7.0,
+          "end": 7.2,
+          "probability": 0.9902523756027222
+        },
+        {
+          "word": " now",
+          "start": 7.2,
+          "end": 7.42,
+          "probability": 0.9866235852241516
+        },
+        {
+          "word": " has",
+          "start": 7.42,
+          "end": 7.64,
+          "probability": 0.9981141090393066
+        },
+        {
+          "word": " over",
+          "start": 7.64,
+          "end": 7.9,
+          "probability": 0.9880536198616028
+        },
+        {
+          "word": " 50",
+          "start": 7.9,
+          "end": 8.52,
+          "probability": 0.9436951279640198
+        },
+        {
+          "word": " million",
+          "start": 8.52,
+          "end": 8.98,
+          "probability": 0.9458655118942261
+        },
+        {
+          "word": " views",
+          "start": 8.98,
+          "end": 9.5,
+          "probability": 0.9960678815841675
+        },
+        {
+          "word": " and",
+          "start": 9.5,
+          "end": 9.86,
+          "probability": 0.94875168800354
+        },
+        {
+          "word": " 500",
+          "start": 9.86,
+          "end": 10.3,
+          "probability": 0.981584370136261
+        },
+        {
+          "word": ",000",
+          "start": 10.3,
+          "end": 10.98,
+          "probability": 0.829838216304779
+        },
+        {
+          "word": " likes.",
+          "start": 10.98,
+          "end": 11.34,
+          "probability": 0.9720751643180847
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.64,
+      "end": 19.22,
+      "text": " I guess this movie was created to show native English speakers what it's like to hear English as a foreigner who doesn't speak the language.",
+      "tokens": [
+        50942,
+        286,
+        2041,
+        341,
+        3169,
+        390,
+        2942,
+        281,
+        855,
+        8470,
+        3669,
+        9518,
+        437,
+        309,
+        311,
+        411,
+        281,
+        1568,
+        3669,
+        382,
+        257,
+        42764,
+        567,
+        1177,
+        380,
+        1710,
+        264,
+        2856,
+        13,
+        51335
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.18345713392596377,
+      "compression_ratio": 1.638783269961977,
+      "no_speech_prob": 0.02793150581419468,
+      "words": [
+        {
+          "word": " I",
+          "start": 11.64,
+          "end": 11.74,
+          "probability": 0.9946308135986328
+        },
+        {
+          "word": " guess",
+          "start": 11.74,
+          "end": 11.92,
+          "probability": 0.9976903200149536
+        },
+        {
+          "word": " this",
+          "start": 11.92,
+          "end": 12.14,
+          "probability": 0.9773968458175659
+        },
+        {
+          "word": " movie",
+          "start": 12.14,
+          "end": 12.32,
+          "probability": 0.9613698720932007
+        },
+        {
+          "word": " was",
+          "start": 12.32,
+          "end": 12.54,
+          "probability": 0.9989981055259705
+        },
+        {
+          "word": " created",
+          "start": 12.54,
+          "end": 12.78,
+          "probability": 0.9966002106666565
+        },
+        {
+          "word": " to",
+          "start": 12.78,
+          "end": 13.04,
+          "probability": 0.9988804459571838
+        },
+        {
+          "word": " show",
+          "start": 13.04,
+          "end": 13.2,
+          "probability": 0.9972583055496216
+        },
+        {
+          "word": " native",
+          "start": 13.2,
+          "end": 13.6,
+          "probability": 0.9654968976974487
+        },
+        {
+          "word": " English",
+          "start": 13.6,
+          "end": 14.04,
+          "probability": 0.9783967137336731
+        },
+        {
+          "word": " speakers",
+          "start": 14.04,
+          "end": 14.46,
+          "probability": 0.9699687361717224
+        },
+        {
+          "word": " what",
+          "start": 14.46,
+          "end": 14.86,
+          "probability": 0.9790307879447937
+        },
+        {
+          "word": " it's",
+          "start": 14.86,
+          "end": 15.12,
+          "probability": 0.9839812517166138
+        },
+        {
+          "word": " like",
+          "start": 15.12,
+          "end": 15.28,
+          "probability": 0.9989846348762512
+        },
+        {
+          "word": " to",
+          "start": 15.28,
+          "end": 15.52,
+          "probability": 0.9984802603721619
+        },
+        {
+          "word": " hear",
+          "start": 15.52,
+          "end": 15.92,
+          "probability": 0.9727003574371338
+        },
+        {
+          "word": " English",
+          "start": 15.92,
+          "end": 16.46,
+          "probability": 0.9804548621177673
+        },
+        {
+          "word": " as",
+          "start": 16.46,
+          "end": 16.84,
+          "probability": 0.9980608820915222
+        },
+        {
+          "word": " a",
+          "start": 16.84,
+          "end": 16.98,
+          "probability": 0.997941792011261
+        },
+        {
+          "word": " foreigner",
+          "start": 16.98,
+          "end": 17.44,
+          "probability": 0.9936450719833374
+        },
+        {
+          "word": " who",
+          "start": 17.44,
+          "end": 18.02,
+          "probability": 0.9573137164115906
+        },
+        {
+          "word": " doesn't",
+          "start": 18.02,
+          "end": 18.42,
+          "probability": 0.9983562529087067
+        },
+        {
+          "word": " speak",
+          "start": 18.42,
+          "end": 18.68,
+          "probability": 0.9983175992965698
+        },
+        {
+          "word": " the",
+          "start": 18.68,
+          "end": 18.88,
+          "probability": 0.9982996582984924
+        },
+        {
+          "word": " language.",
+          "start": 18.88,
+          "end": 19.22,
+          "probability": 0.9968332648277283
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 19.48,
+      "end": 21.3,
+      "text": " And I'm a non-native speaker, by the way.",
+      "tokens": [
+        51335,
+        400,
+        286,
+        478,
+        257,
+        2107,
+        12,
+        77,
+        1166,
+        8145,
+        11,
+        538,
+        264,
+        636,
+        13,
+        51431
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.18345713392596377,
+      "compression_ratio": 1.638783269961977,
+      "no_speech_prob": 0.02793150581419468,
+      "words": [
+        {
+          "word": " And",
+          "start": 19.48,
+          "end": 19.62,
+          "probability": 0.9335945844650269
+        },
+        {
+          "word": " I'm",
+          "start": 19.62,
+          "end": 19.86,
+          "probability": 0.9117213487625122
+        },
+        {
+          "word": " a",
+          "start": 19.86,
+          "end": 19.92,
+          "probability": 0.9509010910987854
+        },
+        {
+          "word": " non",
+          "start": 19.92,
+          "end": 20.1,
+          "probability": 0.9887682795524597
+        },
+        {
+          "word": "-native",
+          "start": 20.1,
+          "end": 20.4,
+          "probability": 0.9599136114120483
+        },
+        {
+          "word": " speaker,",
+          "start": 20.4,
+          "end": 20.76,
+          "probability": 0.9947460889816284
+        },
+        {
+          "word": " by",
+          "start": 20.88,
+          "end": 20.98,
+          "probability": 0.9837954044342041
+        },
+        {
+          "word": " the",
+          "start": 20.98,
+          "end": 21.12,
+          "probability": 0.9995936751365662
+        },
+        {
+          "word": " way.",
+          "start": 21.12,
+          "end": 21.3,
+          "probability": 0.9994463324546814
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 21.4,
+      "end": 24.1,
+      "text": " Okay, let's watch your short clip from the movie together.",
+      "tokens": [
+        51431,
+        1033,
+        11,
+        718,
+        311,
+        1159,
+        428,
+        2099,
+        7353,
+        490,
+        264,
+        3169,
+        1214,
+        13,
+        51584
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.18345713392596377,
+      "compression_ratio": 1.638783269961977,
+      "no_speech_prob": 0.02793150581419468,
+      "words": [
+        {
+          "word": " Okay,",
+          "start": 21.4,
+          "end": 21.6,
+          "probability": 0.7812328338623047
+        },
+        {
+          "word": " let's",
+          "start": 21.78,
+          "end": 22.02,
+          "probability": 0.9936998784542084
+        },
+        {
+          "word": " watch",
+          "start": 22.02,
+          "end": 22.16,
+          "probability": 0.9982925057411194
+        },
+        {
+          "word": " your",
+          "start": 22.16,
+          "end": 22.36,
+          "probability": 0.9641231298446655
+        },
+        {
+          "word": " short",
+          "start": 22.36,
+          "end": 22.6,
+          "probability": 0.9972488284111023
+        },
+        {
+          "word": " clip",
+          "start": 22.6,
+          "end": 22.82,
+          "probability": 0.9947715401649475
+        },
+        {
+          "word": " from",
+          "start": 22.82,
+          "end": 23.04,
+          "probability": 0.9969565868377686
+        },
+        {
+          "word": " the",
+          "start": 23.04,
+          "end": 23.18,
+          "probability": 0.9974373579025269
+        },
+        {
+          "word": " movie",
+          "start": 23.18,
+          "end": 23.44,
+          "probability": 0.9964233040809631
+        },
+        {
+          "word": " together.",
+          "start": 23.44,
+          "end": 24.1,
+          "probability": 0.662925124168396
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2410,
+      "start": 25.06,
+      "end": 26.74,
+      "text": " It's already awkward on the watch today.",
+      "tokens": [
+        50391,
+        467,
+        311,
+        1217,
+        11411,
+        322,
+        264,
+        1159,
+        965,
+        13,
+        50491
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4075017273426056,
+      "compression_ratio": 1.3674698795180722,
+      "no_speech_prob": 0.20157131552696228,
+      "words": [
+        {
+          "word": " It's",
+          "start": 25.06,
+          "end": 25.54,
+          "probability": 0.5373785383999348
+        },
+        {
+          "word": " already",
+          "start": 25.54,
+          "end": 25.7,
+          "probability": 0.16233760118484497
+        },
+        {
+          "word": " awkward",
+          "start": 25.7,
+          "end": 26.04,
+          "probability": 0.5158722400665283
+        },
+        {
+          "word": " on",
+          "start": 26.04,
+          "end": 26.18,
+          "probability": 0.8248912692070007
+        },
+        {
+          "word": " the",
+          "start": 26.18,
+          "end": 26.24,
+          "probability": 0.9906835556030273
+        },
+        {
+          "word": " watch",
+          "start": 26.24,
+          "end": 26.44,
+          "probability": 0.8142622113227844
+        },
+        {
+          "word": " today.",
+          "start": 26.44,
+          "end": 26.74,
+          "probability": 0.9527406692504883
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2410,
+      "start": 27.06,
+      "end": 27.18,
+      "text": " Oh?",
+      "tokens": [
+        50491,
+        876,
+        30,
+        50516
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4075017273426056,
+      "compression_ratio": 1.3674698795180722,
+      "no_speech_prob": 0.20157131552696228,
+      "words": [
+        {
+          "word": " Oh?",
+          "start": 27.06,
+          "end": 27.18,
+          "probability": 0.46518826484680176
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2410,
+      "start": 27.6,
+      "end": 29.7,
+      "text": " Yeah, that doles a really wonderful face.",
+      "tokens": [
+        50516,
+        865,
+        11,
+        300,
+        360,
+        904,
+        257,
+        534,
+        3715,
+        1851,
+        13,
+        50666
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4075017273426056,
+      "compression_ratio": 1.3674698795180722,
+      "no_speech_prob": 0.20157131552696228,
+      "words": [
+        {
+          "word": " Yeah,",
+          "start": 27.6,
+          "end": 27.78,
+          "probability": 0.8754093050956726
+        },
+        {
+          "word": " that",
+          "start": 28.5,
+          "end": 28.68,
+          "probability": 0.5224376916885376
+        },
+        {
+          "word": " doles",
+          "start": 28.68,
+          "end": 28.94,
+          "probability": 0.5703376233577728
+        },
+        {
+          "word": " a",
+          "start": 28.94,
+          "end": 29.02,
+          "probability": 0.6912700533866882
+        },
+        {
+          "word": " really",
+          "start": 29.02,
+          "end": 29.12,
+          "probability": 0.32872772216796875
+        },
+        {
+          "word": " wonderful",
+          "start": 29.12,
+          "end": 29.36,
+          "probability": 0.5940030813217163
+        },
+        {
+          "word": " face.",
+          "start": 29.36,
+          "end": 29.7,
+          "probability": 0.8679457306861877
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2410,
+      "start": 30.66,
+      "end": 32.0,
+      "text": " Can't breathe that more, Alvin John.",
+      "tokens": [
+        50666,
+        1664,
+        380,
+        10192,
+        300,
+        544,
+        11,
+        967,
+        4796,
+        2619,
+        13,
+        50766
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4075017273426056,
+      "compression_ratio": 1.3674698795180722,
+      "no_speech_prob": 0.20157131552696228,
+      "words": [
+        {
+          "word": " Can't",
+          "start": 30.66,
+          "end": 31.14,
+          "probability": 0.7474296391010284
+        },
+        {
+          "word": " breathe",
+          "start": 31.14,
+          "end": 31.24,
+          "probability": 0.9291998147964478
+        },
+        {
+          "word": " that",
+          "start": 31.24,
+          "end": 31.4,
+          "probability": 0.9171718955039978
+        },
+        {
+          "word": " more,",
+          "start": 31.4,
+          "end": 31.54,
+          "probability": 0.6980665326118469
+        },
+        {
+          "word": " Alvin",
+          "start": 31.64,
+          "end": 31.82,
+          "probability": 0.45336222648620605
+        },
+        {
+          "word": " John.",
+          "start": 31.82,
+          "end": 32.0,
+          "probability": 0.7704018354415894
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2410,
+      "start": 32.14,
+      "end": 33.74,
+      "text": " I love this comment under the video.",
+      "tokens": [
+        50766,
+        286,
+        959,
+        341,
+        2871,
+        833,
+        264,
+        960,
+        13,
+        50866
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4075017273426056,
+      "compression_ratio": 1.3674698795180722,
+      "no_speech_prob": 0.20157131552696228,
+      "words": [
+        {
+          "word": " I",
+          "start": 32.14,
+          "end": 32.26,
+          "probability": 0.9898143410682678
+        },
+        {
+          "word": " love",
+          "start": 32.26,
+          "end": 32.44,
+          "probability": 0.9651974439620972
+        },
+        {
+          "word": " this",
+          "start": 32.44,
+          "end": 32.64,
+          "probability": 0.9952074885368347
+        },
+        {
+          "word": " comment",
+          "start": 32.64,
+          "end": 32.96,
+          "probability": 0.9980452060699463
+        },
+        {
+          "word": " under",
+          "start": 32.96,
+          "end": 33.26,
+          "probability": 0.9736192226409912
+        },
+        {
+          "word": " the",
+          "start": 33.26,
+          "end": 33.38,
+          "probability": 0.9937794804573059
+        },
+        {
+          "word": " video.",
+          "start": 33.38,
+          "end": 33.74,
+          "probability": 0.9985542893409729
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2410,
+      "start": 33.96,
+      "end": 37.58,
+      "text": " Imagine an English teacher putting this as a listening final test.",
+      "tokens": [
+        50866,
+        11739,
+        364,
+        3669,
+        5027,
+        3372,
+        341,
+        382,
+        257,
+        4764,
+        2572,
+        1500,
+        13,
+        51041
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4075017273426056,
+      "compression_ratio": 1.3674698795180722,
+      "no_speech_prob": 0.20157131552696228,
+      "words": [
+        {
+          "word": " Imagine",
+          "start": 33.96,
+          "end": 34.32,
+          "probability": 0.9827144742012024
+        },
+        {
+          "word": " an",
+          "start": 34.32,
+          "end": 34.6,
+          "probability": 0.9917190074920654
+        },
+        {
+          "word": " English",
+          "start": 34.6,
+          "end": 34.9,
+          "probability": 0.9718629717826843
+        },
+        {
+          "word": " teacher",
+          "start": 34.9,
+          "end": 35.18,
+          "probability": 0.9905685782432556
+        },
+        {
+          "word": " putting",
+          "start": 35.18,
+          "end": 35.54,
+          "probability": 0.9876703023910522
+        },
+        {
+          "word": " this",
+          "start": 35.54,
+          "end": 35.84,
+          "probability": 0.9950913190841675
+        },
+        {
+          "word": " as",
+          "start": 35.84,
+          "end": 36.1,
+          "probability": 0.9863213896751404
+        },
+        {
+          "word": " a",
+          "start": 36.1,
+          "end": 36.24,
+          "probability": 0.9891302585601807
+        },
+        {
+          "word": " listening",
+          "start": 36.24,
+          "end": 36.6,
+          "probability": 0.9687801003456116
+        },
+        {
+          "word": " final",
+          "start": 36.6,
+          "end": 37.18,
+          "probability": 0.8705168962478638
+        },
+        {
+          "word": " test.",
+          "start": 37.18,
+          "end": 37.58,
+          "probability": 0.9971502423286438
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

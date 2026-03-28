@@ -1,0 +1,88 @@
+/* css/styles.css */
+
+body {
+  font-family: Arial;
+  margin: 0;
+  background: #f4f6f9;
+}
+
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+/* LEFT PANEL */
+.left {
+  width: 30%;
+  background: white;
+  padding: 15px;
+  border-right: 1px solid #ddd;
+  overflow-y: auto;
+}
+
+.segment {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.segment.active {
+  border: 2px solid #007bff;
+  background: #eef5ff;
+}
+
+/* RIGHT PANEL */
+.right {
+  flex: 1;
+  padding: 20px;
+}
+
+.topbar {
+  margin-bottom: 10px;
+}
+
+.controls {
+  margin-bottom: 10px;
+}
+
+/* VIDEO */
+.video-wrapper {
+  position: relative;
+  max-width: 800px;
+}
+
+video {
+  width: 100%;
+  background: black;
+}
+
+/* SUBTITLE */
+.subtitle {
+  position: absolute;
+  color: white;
+  font-size: 24px;
+  background: rgba(0,0,0,0.5);
+  padding: 6px 10px;
+  cursor: move;
+}
+
+/* WAVEFORM */
+#waveform {
+  margin-top: 20px;
+}
+
+/* TIMELINE */
+#timeline {
+  margin-top: 15px;
+  height: 80px;
+  background: #eee;
+  position: relative;
+}
+
+.timeline-block {
+  position: absolute;
+  height: 100%;
+  background: #007bff;
+  cursor: pointer;
+}
